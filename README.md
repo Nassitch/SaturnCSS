@@ -16,7 +16,7 @@ npm install saturn-css
 2. Script execution for install & update.
 
 ```
-npm run saturn
+npm run saturn-css
 ```
 
 </h3>

@@ -12,6 +12,7 @@ REACT_FILE="$CURRENT_PROJECT_SOURCE/main.jsx"
 function move_style_file_on_project {
   if [ -f "$CURRENT_PROJECT_SOURCE/saturn.css" ]; then
     echo "❌ The library is already installed on your project."
+    exit 1
   else
     cp "$STYLE_FILE" "$CURRENT_PROJECT_SOURCE/saturn.css"
     echo "🆗 The library has been successfully installed on your project."
