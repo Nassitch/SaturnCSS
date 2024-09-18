@@ -1,18 +1,18 @@
 {
   "name": "saturn-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Created by Nassime HARMACH, SaturnCSS is a free style library that simplifies the positioning of elements directly from the HTML file.",
-  "repository": {
-    "type": "git",
-    "homepage": "https://github.com/Nassitch/SaturnCSS"
-  },
   "scripts": {
     "start": "sh script.sh",
     "postinstall": "node install.js"
   },
   "private": false,
   "keywords": ["Free style library", "Modular library", "Fast style creation", "Quick element positioning"],
-  "author": "Nassime HARMACH",
+  "author": "Nassime HARMACH <contact@nassime-harmach.com>",
   "license": "MIT",
-  "homepage": "https://saturn-css.3a1d.com/"
+  "homepage": "https://saturn-css.3a1d.com/",
+  "repository": "Nassitch/SaturnCSS",
+  "bugs": {
+    "url": "https://github.com/Nassitch/SaturnCSS/issues"
+  }
 }

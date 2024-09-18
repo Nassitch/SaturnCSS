@@ -7,7 +7,7 @@
 
 <h3>
 
-1. Installation of the package on your Angular project.
+1. Installation of the package on your Angular or React project.
 
 ```
 npm install saturn-css
@@ -19,9 +19,11 @@ npm install saturn-css
 npm run saturn
 ```
 
+</h3>
+
 # Description.
 
-This library promotes atomic design, which involves breaking down user interfaces into elementary components called atoms, molecules, organisms, etc..
+This library promotes atomic design, which involves breaking down user interfaces into elementary components called atoms, molecules, organisms, etc...
 
 This approach fosters code reusability, consistency, and maintainability. The design system file provides the necessary basic elements for building these atoms and their associated components by defining their structure and style.
 
@@ -33,9 +35,9 @@ Documentation : https://saturn-css.3a1d.com/
 
 # Operation.
 
-1. The installation of the package from the root of your Angular project via **Node Package Manager** is mandatory for using the library.
+1. The installation of the package from the root of your Angular or React project via **Node Package Manager** is mandatory for using the library.
 
-2. To install the library in your Angular project, execute the second command from the root of your application. Each time you wish to update the library, there is no need to repeat step 1; simply execute the second command.
+2. To install the library in your Angular ou React project, execute the second command from the root of your application. Each time you wish to update the library, there is no need to repeat step 1; simply execute the second command.
 
 # Details.
 
